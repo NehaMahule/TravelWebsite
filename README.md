@@ -1,7 +1,12 @@
 # TravelWebsite
 
+HOME PAGE
 
 ![home](https://github.com/user-attachments/assets/b4fa5cc3-b586-437e-bb19-a24078a7b7ac)
+
+
+ABOUT US
+
 ![about us](https://github.com/user-attachments/assets/5e338b99-7814-4674-bdea-86a6384083c2)
 ![discover](https://github.com/user-attachments/assets/b5adbf78-6ef8-4bd7-b8b8-5a14ec816563)
 ![east](https://github.com/user-attachments/assets/2b784194-c48d-4d4c-aa43-9beb3094972c)
