@@ -1,17 +1,18 @@
 # TravelWebsite
 The project basically consists of many web pages through which the user can explore various travelling places of India and can book their appointments  for the website for the booking of the packages of the tours.
 
-HOME PAGE
+HOME PAGE                                                                                                                        
 
 ![home](https://github.com/user-attachments/assets/b4fa5cc3-b586-437e-bb19-a24078a7b7ac)
 
-
+                                                                                                                                   
+                                                                                                                                           
 ABOUT US PAGE
 
 ![about us](https://github.com/user-attachments/assets/5e338b99-7814-4674-bdea-86a6384083c2)
 
 
-
+                                                                                                                                                 
 DISCOVER PAGE
 
 ![discover](https://github.com/user-attachments/assets/b5adbf78-6ef8-4bd7-b8b8-5a14ec816563)
